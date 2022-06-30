@@ -1,5 +1,5 @@
 (function() {
-    var rootURL = 'CryptoDonateButton/src/';
+    var rootURL = 'https://raw.githubusercontent.com/bagaweb/CryptoDonateButton/main/src/';
     window.Fr = window.Fr || {};
 
     Fr.loadCD = function(target, options) {
